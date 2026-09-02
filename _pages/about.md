@@ -11,14 +11,16 @@ redirect_from:
 
 Hi! I'm Sphiwe. 
 
-<! --Before coming to MSU, I earned a first-class B.Sc. in Actuarial Science from the [Department of Statistics & Actuarial Science](https://www.ug.edu.gh/statistics/home) at the [University of Ghana](https://www.ug.edu.gh) and an M.S. in Mathematical Sciences with distinction from the African Institute for Mathematical Sciences ([AIMS-Ghana](https://aims.edu.gh)), where I worked on large-deviation and extreme-value theory under the supervision of [Prof. Kwabena Doku-Amponsah](https://www.ug.edu.gh/statistics/people/prof-kwabena-doku-amponsah). -->
+<!-- Before coming to MSU, I earned a first-class B.Sc. in Actuarial Science from the [Department of Statistics & Actuarial Science](https://www.ug.edu.gh/statistics/home) at the [University of Ghana](https://www.ug.edu.gh) and an M.S. in Mathematical Sciences with distinction from the African Institute for Mathematical Sciences ([AIMS-Ghana](https://aims.edu.gh)), where I worked on large-deviation and extreme-value theory under the supervision of [Prof. Kwabena Doku-Amponsah](https://www.ug.edu.gh/statistics/people/prof-kwabena-doku-amponsah). -->
 
-
+<--
 ## News
 
 <div class="news" markdown="1">
 
-- **[Aug 2026]** Delighted by the invitation to present my work on ***computer model calibration*** at [ISNET-12](https://conferences.lbl.gov/event/2526/page/331-participate-in-isnet-12), hosted by [Lawrence Berkeley National Lab](https://www.lbl.gov/).
+- **[Aug 2026]** Happy ....
+-
+<!-- Delighted by the invitation to present my work on ***computer model calibration*** at [ISNET-12](https://conferences.lbl.gov/event/2526/page/331-participate-in-isnet-12), hosted by [Lawrence Berkeley National Lab](https://www.lbl.gov/).
  
 - **[May 2026]** Happy to announce that I have been awarded the M.Sc. in Statistics from [MSU](https://msu.edu), en route to my Ph.D.!
 
@@ -30,7 +32,7 @@ Hi! I'm Sphiwe.
 
 - **[Mar 2026]** I will be giving a talk at [SIAM UQ'26](https://www.siam.org/conferences-events/siam-conferences/uq26/) in the [Deep Gaussian Process Surrogates](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=85970) Session.
 
-- **[Feb 2026]** I am honored to receive the  Michigan State University Graduate School Travel Fellowship to present at [SIAM UQ'26](https://www.siam.org/conferences-events/siam-conferences/uq26/).
+- **[Feb 2026]** I am honored to receive the  Michigan State University Graduate School Travel Fellowship to present at [SIAM UQ'26](https://www.siam.org/conferences-events/siam-conferences/uq26/). -->
   
 <!-- - **[Aug 2025]** I am pleased to have been selected as the Graduate Student Instructional Leader in the [Department of Statistics & Probability](https://stt.natsci.msu.edu) at Michigan State University for Fall 2025. -->
 
