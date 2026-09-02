@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 title: 'Quadrature Methods & Some Applications'
 collection: posts
@@ -13,6 +13,6 @@ This post will be about some numerical integration techniques and when to use th
 # Numerical Quadratures
 
 
-# Monte Carlo Integration
+# Monte Carlo Integration -->
 
 
