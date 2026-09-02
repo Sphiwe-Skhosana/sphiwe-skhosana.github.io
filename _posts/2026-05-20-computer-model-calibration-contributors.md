@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 title: "A Hierarchical Tree of Contributors to Computer Model Calibration and Active Learning for Calibration"
 collection: posts
@@ -184,4 +184,4 @@ If you want one paper that ties most of the above together, Sung et al. (2024), 
 - Koermer, S., Loda, J., Noble, A., & Gramacy, R. B. (2024). Augmenting a simulation campaign for hybrid computer model and field data experiments. arXiv:2301.10228.
 - Sürer, Ö., Plumlee, M., & Wild, S. M. (2024). Sequential Bayesian experimental design for calibration of expensive simulation models. *Technometrics*.
 - Sung, C.-L., et al. (2024). A review on computer model calibration. *WIREs Computational Statistics*, e1645.
-- Gramacy, R. B. (2020). *Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences*. Chapman & Hall/CRC.
+- Gramacy, R. B. (2020). *Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences*. Chapman & Hall/CRC. -->
