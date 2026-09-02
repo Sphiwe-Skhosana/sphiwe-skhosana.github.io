@@ -10,13 +10,13 @@
 locale                   : "en-US"
 #site_theme               : "default"
 remote_theme             : "mmistakes/minimal-mistakes@4.26.2"  # Latest stable version compatible with GitHub Pages
-title                    : "Andrews Boahen"
+title                    : "Sphiwe Skhosana"
 title_separator          : "-"
-name                     : &name "Andrews Boahen"
+name                     : &name "Sphiwe Skhosana"
 description              : &description "Your Name's academic portfolio"
-url                      : https://andrewsboahen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://sphiwe-skhosana.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AndrewsBoahen/andrewsboahen.github.io"
+repository               : "Sphiwe-Skhosana/sphiwe-skhosana.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ repository               : "AndrewsBoahen/andrewsboahen.github.io"
 author:
   # Biographic information
   avatar           : "boahenan_new.png"
-  name             : "Andrews Boahen"
+  name             : "Sphiwe Skhosana"
   pronouns         : "He/Him" 
   bio              : "Doctoral Candidate, Department of Statistics & Probability"
   location         : "East Lansing, MI."
