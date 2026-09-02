@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Future Blog Post: A Note on The Connections & Equivalences of Gaussian Processes and Reproducing Kernels'
 date: 2026-08-26
 permalink: /posts/2199-01-01-future-post/
@@ -22,3 +22,5 @@ mermaid: true
 ### The Moore-Aronszajn Theorem
 
 ## References
+
+-->
